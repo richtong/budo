@@ -24,7 +24,7 @@
     "http-proxy": "^1.14.0",
     "inject-lr-script": "^2.0.0",
     "internal-ip": "^1.0.1",
-    "micromatch": "^2.2.0",
+    "micromatch": "^4.0.8",
     "minimist": "^1.1.0",
     "on-finished": "^2.3.0",
     "on-headers": "^1.0.1",
